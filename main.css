@@ -1,0 +1,18 @@
+p {
+    color: white;
+    background: black;
+}
+.img-wrapper {
+    width: 200px;
+    padding: 10px;
+    border: 20px solid red;
+    margin: 10px;
+}
+
+h2 {
+    color: brown;
+
+}
+.first-img {
+width: 100%;
+}
